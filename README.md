@@ -19,3 +19,8 @@ highest score for the respective game mode they played.
 
 **Please note** numbers may be duplicated within the randomly generated number
 
+##Running the code
+
+* Ensure requirements.txt is installed 
+* Please run [src/main.py](https://github.com/Kremzeeq/mastermind/blob/master/src/main.py) to run mastermind game
+
