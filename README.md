@@ -19,6 +19,8 @@ highest score for the respective game mode they played.
 
 **Please note** numbers may be duplicated within the randomly generated number
 
+This challenge has been adapted from here:  https://www.ocr.org.uk/Images/202838-20-code-challenges.pdf
+
 ## Running the code
 
 * Ensure requirements.txt is installed 
